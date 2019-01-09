@@ -1,5 +1,12 @@
 <resources>
-    <string name="app_name">MadPoper</string>
-    <string name="title">Title</string>
+    <string name="app_name">DiceEr!</string>
     <string name="btn_text">Roll!</string>
+    <string name="las_veg">veg_las</string>
+    <string name="dice1">dice1_img</string>
+    <string name="dice2">dice2_img</string>
+    <string name="dice3">dice2_img</string>
+    <string name="dice4">dice2_img</string>
+    <string name="dice5">dice2_img</string>
+    <string name="dice6">dice2_img</string>
+    <string name="div_Line">divLine</string>
 </resources>
